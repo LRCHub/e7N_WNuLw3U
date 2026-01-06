@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "どっか遠くまで",
+  "base_artist": "日食なつこ",
+  "createdAt": "2026-01-06T01:07:26.972018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どっか遠くまで",
+      "artist": "日食なつこ",
+      "has_synced": true,
+      "path": "select/01_どっか遠くまで_日食なつこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どっか遠くまで",
+      "artist": "日食なつこ",
+      "has_synced": false,
+      "path": "select/pl_01_どっか遠くまで_日食なつこ.txt"
+    }
+  ]
+}
